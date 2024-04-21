@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+.quiz-section{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 130px;
+    list-style: none;
+}
+.li,ul{
+    list-style: none;
+}
